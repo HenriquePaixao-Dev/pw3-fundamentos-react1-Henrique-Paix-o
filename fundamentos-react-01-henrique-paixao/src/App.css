@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+
+.card-book{
+  padding: 5px;
+  background-color: antiquewhite;
+  width: 300px;
+  border-radius: 100px;
+  margin: 10px;
+  text-align: center;
+}
